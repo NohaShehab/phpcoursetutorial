@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<organization> 
+    <name>PHP</name> 
+    <instructor>Noha Shehab </instructor>
+    <contact> 
+        <email>nohashehab.iti@gmail.com</email> 
+        <mobile>0000000000</mobile> 
+    </contact>
+    
+    <name>Admin</name> 
+    <instructor>Fatma Khaled</instructor>
+    <contact> 
+        <email>fatmaKhaled.iti@gmail.com</email> 
+        <mobile>0000000000</mobile> 
+    </contact>
+    
+</organization> 
